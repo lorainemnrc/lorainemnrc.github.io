@@ -1,8 +1,10 @@
 # Projects
 
-<hr>
+<hr style="border: 3px solid #000000">
 
+*** 
 ## Machine Learning 
+<br>
 
 ### Customer Purchase Propensity Analysis with Explainable AI
 
@@ -17,10 +19,11 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   Your browser does not support the video tag.
 </video>
 
----
 <br>
 
+***
 ## Recommender System
+<br>
 
 ### Social Media Brand-Influencer Matching
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/recsys-socmed-marketing)
@@ -38,10 +41,11 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   Your browser does not support the video tag.
 </video>
 
----
 <br>
 
+***
 ## Natural Language Processing & Information Retrieval
+<br>
 
 ### Enhancing Service Support Through Customer Concern Topic Modelling
 
@@ -60,10 +64,11 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   Your browser does not support the video tag.
 </video>
 
----
 <br>
 
+***
 ## Deep Learning
+<br>
 
 ### Proactive Manufacturing Quality Control with Anomaly Detection & Explainable AI
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/deep-learning-cv-anomaly-detection)
@@ -79,10 +84,11 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   Your browser does not support the video tag.
 </video>
 
----
 <br>
 
+***
 ## Big Data & Cloud Computing
+<br>
 
 ### From Publication to Citation: Understanding the Factors Driving Research Recognition
 
@@ -99,7 +105,9 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   Your browser does not support the video tag.
 </video>
 
-<hr>
+<br>
+<hr style="border: 3px solid #000000">
+<br>
 
 # Publications
 
