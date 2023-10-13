@@ -30,10 +30,7 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/recsys-socmed-marketing)
 
 <p align="justify"> &emsp;
-  In today's marketing landscape, the power of <strong><em>influencer marketing</em></strong> is undeniable. Yet, the meticulous process of choosing the right partners poses challenges both in terms of time and expense. To address this, we harnessed the potential of machine learning and information retrieval techniques.
-</p>
-<p align="justify"> &emsp;
-  With a brand's existing social network and aggregating data from influential personalities, we streamlined the partner selection process using a <strong><em>content-based recommender system</em></strong>. The outcome: a curated list of potential celebrity and influencer partners, including micro and macro influencers, resulting in efficiency gains and potential cost savings.
+  In today's marketing landscape, the power of <strong><em>influencer marketing</em></strong> is undeniable. Yet, the meticulous process of choosing the right partners poses challenges both in terms of time and expense. To address this, we harnessed the potential of <strong><em>content-based recommender system</em></strong> and information retrieval techniques.
 </p>
 <p align="justify"> &emsp;
   This initiative marked a milestone in our Data Mining and Wrangling 2 course within the MS in Data Science program at AIM.
@@ -57,10 +54,7 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/nlp-topic-modeling-pldt)
 
 <p align="justify"> &emsp;
-  In a highly connected nation, a <strong><em>temporary Internet shutdown</em></strong> carries an average daily economic impact of $23.6 million per 10 million inhabitants. Beyond the economic consequences, it leads to reduced productivity, communication challenges, and a <strong><em>surge in customer complaints</em></strong>.
-</p> 
-<p align="justify"> &emsp;
-  Our focus is on the latter. We aim to <strong><em>identify and categorize complaint characteristics</em></strong> that enable internet providers to swiftly allocate concerns to the right department, expediting resolutions and enhancing customer experience.
+  In a highly connected nation, a <strong><em>temporary Internet shutdown</em></strong> leads to reduced productivity, communication challenges, and a <strong><em>surge in customer complaints</em></strong>. With topic modeling techniques, we <strong><em>identify and categorize complaint characteristics</em></strong> that enable internet providers to swiftly allocate concerns to the right department, expediting resolutions and enhancing customer experience.
 </p>
 <p align="justify"> &emsp;
   This initiative marks a significant milestone in our Data Mining and Wrangling 1 course within the MS in Data Science program at AIM.
@@ -83,10 +77,7 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/deep-learning-cv-anomaly-detection)
 
 <p align="justify"> &emsp;
-  In manufacturing, maintaining <strong><em>top-tier quality standards</em></strong> is essential. However, guaranteeing this quality is challenging due to the rarity, scale, sensitivity, and complexity of defects.
-</p>
-<p align="justify"> &emsp;
-  By <strong><em>combining advanced data mining, deep learning techniques, and explainable AI,</em></strong> we address these challenges to help quality management for manufacturing companies. 
+  In manufacturing, maintaining <strong><em>top-tier quality standards</em></strong> is essential. However, guaranteeing this quality is challenging due to the rarity, scale, sensitivity, and complexity of defects. By combining <strong><em>advanced data mining, deep learning techniques, and explainable AI,</em></strong> we address these challenges to help quality management for manufacturing companies. 
 </p> 
 <p align="justify"> &emsp;
 This project marks a pivotal achievement in our Machine Learning 3 course within the MS in Data Science program at AIM.
@@ -110,10 +101,7 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/big-data-researcher-opportunity)
 
 <p align="justify"> &emsp;
-  In today's fiercely competitive academic landscape, <strong><em>maximizing the impact of scholarly work</em></strong> is important. About 90% of journal articles remain uncited, with around 50% unnoticed by authors and editors.
-</p> 
-<p align="justify"> &emsp;
-  Using big data analysis and machine learning, we want to <strong><em></em>identify factors that influence article citations and readership</em></strong>. This model empowers researchers and institutions to prioritize their efforts, focusing on articles with a higher potential for impact.
+  With about 90% of journal articles remaining uncited, and around 50% unnoticed by authors and editors, <strong><em>maximizing the impact of scholarly work</em></strong> is important. Using big data analysis and machine learning, we <strong><em>identify factors that influence article citations and readership</em></strong> to guide researchers and institutions on which articles to focus based on their potential for impact.
 </p>
 <p align="justify"> &emsp;
   This project is a significant milestone in our Big Data & Cloud Computing course within the MS in Data Science program at AIM.
