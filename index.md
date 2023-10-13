@@ -5,7 +5,10 @@
 ### Machine Learning 
 
 [Customer Purchase Propensity Analysis with Explainable AI](https://github.com/lorainemnrc/predict-purchase-propensity)
-<img src="images/poster_purchase_propensity.mp4?raw=true"/>
+<video controls width="480">
+  <source src="images/poster_purchase_propensity.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
