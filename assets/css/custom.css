@@ -1,0 +1,10 @@
+/* Custom CSS for adjusting the right side width */
+section {
+  width: 70%;
+}
+
+/* You can also adjust other elements as needed */
+/* For example, you can make the header narrower to match the content width */
+header {
+  width: 30%;
+}
