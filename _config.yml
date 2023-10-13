@@ -1,11 +1,19 @@
-title: John Doe # your name (or website title) here
+title: Loraine Menorca # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/lorainemnrc/">LinkedIn</a> |
+  <a href="https://github.com/lorainemnrc">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Analytical and self-starter with 3 years of experience collaborating directly with Customer Experience and service, Product, Marketing, and Technology teams. Recent graduate of MS in Data Science program at the Asian Institute of Management.
   <br><br>
-  Second description 
+  With a proven track record of delivering over 15 impactful case studies utilizing Statistical and Machine Learning techniques in Python and R, along with creating 50+ dynamic dashboards in Tableau and Power BI. Adept at spearheading and successfully executing projects with minimal supervision.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
