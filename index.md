@@ -55,16 +55,14 @@
 # Publications
 
 
-[**Simulating network formation through in-person interaction in a limited budget environment**](https://proceedings.spp-online.org/article/view/SPP-2019-1F-04)
+[Simulating network formation through in-person interaction in a limited budget environment](https://proceedings.spp-online.org/article/view/SPP-2019-1F-04)
 
 Proceedings of the Samahang Pisika ng Pilipinas, 37 (2019)
-
 Authors: Maria Loraine R. Menorca and May T. Lim
 
 <br/>
 
-[**Proximity analysis between researchers and networking venues**](https://proceedings.spp-online.org/article/view/SPP-2018-PC-31)
+[Proximity analysis between researchers and networking venues](https://proceedings.spp-online.org/article/view/SPP-2018-PC-31)
 
 Proceedings of the Samahang Pisika ng Pilipinas, 36 (2018)
-
 Authors: Maria Loraine R. Menorca and May T. Lim
