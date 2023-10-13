@@ -1,6 +1,6 @@
 # Projects
 
-<hr style="border: 2px">
+<hr style="border: 2px solid">
 
 ## Machine Learning 
 
@@ -103,7 +103,7 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
 
 ***
 ## Big Data & Cloud Computing
-<br>
+
 
 ### From Publication to Citation: Understanding the Factors Driving Research Recognition
 
@@ -127,7 +127,7 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
 </div>
 
 <br>
-<hr style="border: 2px">
+<hr style="border: 2px solid">
 <br>
 
 # Publications
