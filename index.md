@@ -10,7 +10,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/predict-purchase-propensity)
 
 <p align="justify"> &emsp;
-Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> in e-commerce is crucial to unlocking business growth. Using <strong><em>Explainable AI</em></strong>, our goal was to identify these drivers and pinpoint actionable strategies that will retain and convert customers. This project represents a milestone in our Machine Learning 2 course within the MS in Data Science program at AIM.
+Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> in e-commerce is crucial to unlocking business growth. Using <strong><em>Explainable AI</em></strong>, our goal was to identify these drivers and pinpoint actionable strategies that will retain and convert customers.
 </p>
 
 <div style="text-align: center;">
@@ -31,9 +31,6 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 
 <p align="justify"> &emsp;
   In today's marketing landscape, the power of <strong><em>influencer marketing</em></strong> is undeniable. Yet, the meticulous process of choosing the right partners poses challenges both in terms of time and expense. To address this, we harnessed the potential of <strong><em>content-based recommender system</em></strong> and information retrieval techniques.
-</p>
-<p align="justify"> &emsp;
-  This initiative marked a milestone in our Data Mining and Wrangling 2 course within the MS in Data Science program at AIM.
 </p>
 
 <div style="text-align: center;">
@@ -56,9 +53,6 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 <p align="justify"> &emsp;
   In a highly connected nation, a <strong><em>temporary Internet shutdown</em></strong> leads to reduced productivity, communication challenges, and a <strong><em>surge in customer complaints</em></strong>. With topic modeling techniques, we <strong><em>identify and categorize complaint characteristics</em></strong> that enable internet providers to swiftly allocate concerns to the right department, expediting resolutions and enhancing customer experience.
 </p>
-<p align="justify"> &emsp;
-  This initiative marks a significant milestone in our Data Mining and Wrangling 1 course within the MS in Data Science program at AIM.
-</p>
 
 <div style="text-align: center;">
   <video autoplay controls width="480">
@@ -79,9 +73,6 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 <p align="justify"> &emsp;
   In manufacturing, maintaining <strong><em>top-tier quality standards</em></strong> is essential. However, guaranteeing this quality is challenging due to the rarity, scale, sensitivity, and complexity of defects. By combining <strong><em>advanced data mining, deep learning techniques, and explainable AI,</em></strong> we address these challenges to help quality management for manufacturing companies. 
 </p> 
-<p align="justify"> &emsp;
-This project marks a pivotal achievement in our Machine Learning 3 course within the MS in Data Science program at AIM.
-</p>
 
 <div style="text-align: center;">
   <video autoplay controls width="480">
@@ -103,9 +94,6 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
 <p align="justify"> &emsp;
   With about 90% of journal articles remaining uncited, and around 50% unnoticed by authors and editors, <strong><em>maximizing the impact of scholarly work</em></strong> is important. Using big data analysis and machine learning, we <strong><em>identify factors that influence article citations and readership</em></strong> to guide researchers and institutions on which articles to focus based on their potential for impact.
 </p>
-<p align="justify"> &emsp;
-  This project is a significant milestone in our Big Data & Cloud Computing course within the MS in Data Science program at AIM.
-</p>
 
 <div style="text-align: center;">
   <video autoplay controls width="480">
@@ -116,7 +104,6 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
 
 <br>
 <hr style="border: 2px solid">
-<br>
 
 # Publications
 
