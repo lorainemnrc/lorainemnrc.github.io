@@ -4,8 +4,8 @@
 
 ### Machine Learning 
 
-[Customer Purchase Propensity Analysis with Explainable AI](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Customer Purchase Propensity Analysis with Explainable AI](https://github.com/lorainemnrc/predict-purchase-propensity)
+<img src="images/poster_purchase_propensity?raw=true"/>
 
 ---
 
