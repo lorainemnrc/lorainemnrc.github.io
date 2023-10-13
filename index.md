@@ -7,7 +7,7 @@
 **Customer Purchase Propensity Analysis with Explainable AI**
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/predict-purchase-propensity)
 
-Uncovering the key drivers behind customer drop-offs in e-commerce is crucial to unlocking business growth. Using Explainable AI, our goal was to identify these drivers and pinpoint actionable strategies that will retain and convert customers. This project represents a milestone in our Machine Learning 2 coursework within the MS in Data Science program at AIM.
+Uncovering the key drivers behind customer drop-offs in e-commerce is crucial to unlocking business growth. Using ***Explainable AI***, our goal was to identify these drivers and pinpoint actionable strategies that will retain and convert customers. This project represents a milestone in our Machine Learning 2 course within the MS in Data Science program at AIM.
 
 
 <video autoplay controls width="480">
@@ -51,7 +51,7 @@ Uncovering the key drivers behind customer drop-offs in e-commerce is crucial to
 
 [From Publication to Citation: Understanding the Factors Driving Research Recognition](https://github.com/lorainemnrc/big-data-researcher-opportunity)
 <video autoplay controls width="480">
-  <source src="images/poster_cv_anomaly_detection.mp4" type="video/mp4">
+  <source src="images/poster_researcher_opportunity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
