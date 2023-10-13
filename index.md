@@ -13,10 +13,12 @@
 Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> in e-commerce is crucial to unlocking business growth. Using <strong><em>Explainable AI</em></strong>, our goal was to identify these drivers and pinpoint actionable strategies that will retain and convert customers. This project represents a milestone in our Machine Learning 2 course within the MS in Data Science program at AIM.
 </p>
 
-<video autoplay controls width="480">
-  <source src="images/poster_purchase_propensity.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <video autoplay controls width="480">
+    <source src="images/poster_purchase_propensity.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <br>
 
@@ -37,10 +39,12 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   This initiative marked a milestone in our Data Mining and Wrangling 2 course within the MS in Data Science program at AIM.
 </p>
 
-<video autoplay controls width="480">
-  <source src="images/poster_socmed_recsys.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <video autoplay controls width="480">
+    <source src="images/poster_socmed_recsys.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <br>
 
@@ -62,10 +66,12 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
   This initiative marks a significant milestone in our Data Mining and Wrangling 1 course within the MS in Data Science program at AIM.
 </p>
 
-<video autoplay controls width="480">
-  <source src="images/poster_pldt_topicmodeling.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <video autoplay controls width="480">
+    <source src="images/poster_pldt_topicmodeling.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <br>
 
@@ -86,10 +92,12 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 This project marks a pivotal achievement in our Machine Learning 3 course within the MS in Data Science program at AIM.
 </p>
 
-<video autoplay controls width="480">
-  <source src="images/poster_cv_anomaly_detection.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <video autoplay controls width="480">
+    <source src="images/poster_cv_anomaly_detection.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <br>
 
@@ -111,10 +119,12 @@ This project marks a pivotal achievement in our Machine Learning 3 course within
   This project is a significant milestone in our Big Data & Cloud Computing course within the MS in Data Science program at AIM.
 </p>
 
-<video autoplay controls width="480">
-  <source src="images/poster_researcher_opportunity.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center;">
+  <video autoplay controls width="480">
+    <source src="images/poster_researcher_opportunity.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <br>
 <hr style="border: 2px">
