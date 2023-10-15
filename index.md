@@ -112,7 +112,7 @@ Uncovering the <strong><em>key drivers behind customer drop-offs</em></strong> i
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lorainemnrc/mlops-ph-bills-detector)
 
 <p align="justify"> &emsp;
-  In the Philippines, manual counting and verification of bills has been the long customary practice. Despite the recent developments in the field of fintech, <strong><em>94% of Filipinos still prefer cash-in transactions</em></strong>. However, there are several challenges encountered in manual counting as follows but not limited to human error, fraud, time-consuming, inefficiency, and risk of fraud. To address this, we developed an application that uses <strong><em>computer vision to detect and count Philippine currency bills</em></strong> to streamline simple financial management tasks, reducing human error and ensuring secure and efficient operations.
+  In the Philippines, <strong><em>94% of Filipinos still prefer cash transactions</em></strong> despite the growth of fintech. However, manual bill counting poses challenges like human error, fraud, inefficiency, and time consumption. To tackle these issues, we developed a <strong><em>computer vision application to streamline financial tasks</em></strong>, reducing human error and enhancing efficiency.
 </p>
 
 <div style="text-align: center;">
